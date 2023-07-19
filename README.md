@@ -11,6 +11,8 @@ As a Computer Science Engineer with extensive experience in the software develop
 
 Throughout my career, I have had the privilege of working with renowned companies such as [Cox Automotive](https://www.coxautoinc.com/), [ADP](https://www.adp.com/), [Nutrien](https://www.nutrien.com/), [The Knot Worldwide]([https://www.theknot.com/](https://www.theknotww.com/)), [Cognosante](https://www.cognosante.com/), [CMS (Centers for Medicare & Medicaid Services)](https://www.cms.gov/), and [Ventera](https://www.ventera.com/), among others. These unique opportunities have allowed me to gain expertise in all aspects of the Software Development Life Cycle (SDLC).
 
+![Representative Image](./banner1.png)
+
 ## 🚀 Services That Propel Your Business Forward
 
 I am dedicated to helping businesses like yours thrive in the digital landscape. Through my consultancy services, I offer a range of solutions designed to drive discoverability, engagement, and customer conversion. Here are some of the services I provide:
