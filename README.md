@@ -13,7 +13,7 @@ Throughout my career, I have had the privilege of working with renowned companie
 
 ![Representative Image](./banner1.png)
 ---
-> "Surround yourself with smart, innovative, experienced, and knowledgeable people. They will inspire you, challenge you, and push you to reach new heights."
+> "Surround yourself with smart, innovative, experienced, and knowledgeable people. They will inspire, challenge, and push you to reach new heights."
 - Steve Jobs
 ---
 
